@@ -4,6 +4,15 @@
 ## Descrição (PT-BR)
 Panorama Covid é um aplicativo feito em Java e Python. Sua proposta principal é informar e educar as pessoas sobre a pandemia atual do SarS-CoV-2 (COVID-19). Também é o projeto final da disciplina **SSC0103 - Programação Orientada a Objetos** na Universidade de São Paulo (ICMC - USP).
 
+### Estrutura
+O aplicativo possui um dashboard principal que possui três seções:
+- Quando serei vacinado?
+  - Utiliza APIs públicas para saber quando uma pessoa será vacinada, dada a idade e condição de saúde (comorbidades).
+- Estatísticas
+  - Mostra informações relevantes sobre a pandemia no Brasil.
+- Notícias
+  - Feed de notícias de fontes confiáveis sobre a pandemia no Brasil.
+
 ## Description (EN)
 Panorama Covid is an app mainly made in Java and Python, which it's main purpose is to inform and educate people about the SarS-CoV-2 (also known as COVID-19) ongoing pandemic. It's also the final project of **Object Oriented Programming class (SSC0103)** at University of São Paulo - Brazil (ICMC-USP).
 
